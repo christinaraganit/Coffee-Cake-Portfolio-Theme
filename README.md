@@ -25,7 +25,7 @@ This portfolio theme includes...
   * Cards
   * And more!
 
-## :hammer: What technologies were used to make Coffee Cake?
+## :toolbox: What technologies were used to make Coffee Cake?
 - Next.js
 - Tailwind
 - Figma
@@ -34,7 +34,7 @@ This portfolio theme includes...
 ## :computer: Who built Coffee Cake? 
 This portfolio theme website was created by the interface-designing, cookie-devouring, mosquito-hating menace known as Christina Rganit. 
 
-## :rat: Who is Coffee Cake created for?
+## :bread: Who is Coffee Cake created for?
 Coffee Cake was built for Ray Gong!
 
 ## :coffee: Who can use Coffee Cake?
