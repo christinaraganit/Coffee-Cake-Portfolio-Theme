@@ -40,5 +40,5 @@ Coffee Cake was built for Ray Gong!
 ## :coffee: Who can use Coffee Cake?
 If you are not Ray "goldentoaste" Gong, you may not use Coffee Cake for your personal portfolio website.
 
-### :warning: Are there any known bugs for Coffee Cake?
+## :warning: Are there any known bugs for Coffee Cake?
 This is not necessarily a bug, but Ray specifically requested that Coffee Cake is not responsive for mobile.
