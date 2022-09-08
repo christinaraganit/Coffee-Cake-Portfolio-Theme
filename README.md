@@ -6,7 +6,12 @@ Coffee Cake is a single-page portfolio website theme that takes inspiration from
 ## :open_file_folder: What is included in Coffee Cake?
 This portfolio theme includes...
 - Figma design files with scalable and resizable components
-- A mini design system highlighting
+- A mini design system highlighting...
+  * Layout
+  * Iconography
+  * Components
+  * Colors
+  * Spacing
 - A Next.js application with the following pages:
   * Menu
   * Menu with options
