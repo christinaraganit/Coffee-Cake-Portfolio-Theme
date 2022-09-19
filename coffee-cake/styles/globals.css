@@ -28,3 +28,10 @@ body {
 * {
   box-sizing: border-box;
 }
+
+
+#home {
+  background-image: url("../public/background.png");
+  background-position: center;
+  background-size: cover;
+}
